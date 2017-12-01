@@ -23,6 +23,11 @@
     "thecodingmachine/stash-universal-module": "A service provider providing a PSR-6 cache pool through the Stash library",
     "thecodingmachine/psr-6-doctrine-bridge-universal-module": "A service provider providing a bridge between PSR-6 cache pool and Doctrine cache"
   },
+  "config": {
+    "platform": {
+      "php": "7.0.22"
+    }
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
